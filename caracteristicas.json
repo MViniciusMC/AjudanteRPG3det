@@ -1,0 +1,29 @@
+{
+  "tipos": [
+    "humano", "aberrante", "abissal", 
+    "alien","anão","anfibio",
+    "celestial", "centauro", "ciborgue",
+    "constructo", "Dahlan", "elfo",
+    "Fada", "Fantasma", "Hynne",
+    "Kallyanach", "Kemono", "Medusa",
+    "Minotauro","Orc","Morto-Vivo",
+     "Sauroíde","Vampiro","Fera"
+  ],
+  "atributo": [
+    "Fogo", "terra", "agua", 
+    "ar","nulo", "relâmpago", 
+    "luz", "trevas","mágico"
+  ],
+  "tipos_kemono": [
+    "porco", "gato", "leão",
+    "tubarão","lobo","elefante",
+    "bode","carneiro","tigre",
+    "sapo", "raposa", "aguia",
+    "cervo", "urso", "rato"
+  ],
+  "implantes":[
+    "braço D","olho D","perna D",
+    "orelha D","torax","braço E","olho E","perna E",
+    "orelha E"
+  ]
+}

@@ -1,0 +1,23 @@
+[06/07/2025 21:47:16] [INVOCADO] Torre | PV: 18 | FA: 12 | FD: 14 | Crítico: (5, 6) | Habilidades: Defesa Provocar
+[06/07/2025 21:47:45] [INVOCADO] Peao | PV: 3 | FA: 8 | FD: 8 | Crítico: 6 | Habilidades: Área
+[06/07/2025 21:48:01] [INVOCADO] Cavalo | PV: 12 | FA: 12 | FD: 10 | Crítico: 6 | Habilidades: Vampírico, Áurea de Perda
+[06/07/2025 21:48:14] [INVOCADO] Rei | PV: 27 | FA: 16 | FD: 16 | Crítico: (4, 5, 6) | Habilidades: Fogo de Dragão
+[06/07/2025 21:48:40] [INVOCADO] Rei | PV: 28 | FA: 14 | FD: 15 | Crítico: (4, 5, 6) | Habilidades: Sem Críticos, Segunda Forma Menor
+[06/07/2025 21:48:55] [INVOCADO] Torre | PV: 16 | FA: 12 | FD: 13 | Crítico: (5, 6) | Habilidades: Morto Vivo
+[06/07/2025 21:49:58] [INVOCADO] Torre | PV: 18 | FA: 15 | FD: 12 | Crítico: (5, 6) | Habilidades: Sem Críticos
+[06/07/2025 23:00:58] [INVOCADO] Cavalo | PV: 13 | FA: 9 | FD: 11 | Crítico: 6 | Habilidades: Olho da Verdade, Vida Extra
+[07/07/2025 05:29:38] [ENCONTRO] D1: 2 | D2: 6 | Hostilidade: 5 => Rei + 1d3 Torre
+[07/07/2025 05:29:52] [ENCONTRO] D1: 5 | D2: 2 | Hostilidade: 5 => Rei + 1d3 (Bispo/Cavalo)
+[07/07/2025 05:43:28] [ENCONTRO] D1: 4 | D2: 4 | Hostilidade: 5 => Rainha + 1d6 peões
+[07/07/2025 05:44:07] [INVOCADO] Rainha | PV: 24 | FA: 13 | FD: 15 | Crítico: (5, 6) | Habilidades: Resistência, Metamorfose
+[07/07/2025 05:45:17] [INVOCADO] Peao | PV: 4 | FA: 5 | FD: 6 | Crítico: 6 | Habilidades: Sem Habilidades
+[07/07/2025 06:50:35] [INVOCADO] Rainha | PV: 25 | FA: 15 | FD: 13 | Crítico: (5, 6) | Habilidades: Ponto Fraco, Vida Extra
+[07/07/2025 07:00:10] [INVOCADO] Rei | PV: 25 | FA: 13 | FD: 15 | Crítico: (4, 5, 6) | Habilidades: Defesa Provocar, Corpo Endurecido, Área
+[07/07/2025 07:00:35] [INVOCADO] Rainha | PV: 24 | FA: 17 | FD: 16 | Crítico: (5, 6) | Habilidades: Ponto Fraco, Grude Pegajoso
+[07/07/2025 07:05:00] [INVOCADO] Torre | PV: 15 | FA: 12 | FD: 15 | Crítico: (5, 6) | Habilidades: Múltiplo
+[07/07/2025 09:33:28] [INVOCADO] Rainha | PV: 22 | FA: 17 | FD: 17 | Crítico: (5, 6) | Habilidades: Áurea de Perda
+[07/07/2025 09:38:05] [INVOCADO] Rainha | PV: 21 | FA: 17 | FD: 13 | Crítico: (5, 6) | Habilidades: Vampírico, Sem Críticos
+[07/07/2025 09:45:17] [INVOCADO] Rainha | PV: 23 | FA: 16 | FD: 16 | Crítico: (5, 6) | Habilidades: Explosivos
+[07/07/2025 09:47:11] [INVOCADO] Cavalo | PV: 13 | FA: 9 | FD: 9 | Crítico: 6 | Habilidades: Adaptador, Vampírico
+[07/07/2025 10:08:16] [INVOCADO] Cavalo | PV: 14 | FA: 11 | FD: 10 | Crítico: 6 | Habilidades: Defesa Reflexiva
+[07/07/2025 10:09:10] [INVOCADO] Cavalo | PV: 15 | FA: 9 | FD: 9 | Crítico: 6 | Habilidades: acumulativo, Corpo Endurecido
