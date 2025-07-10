@@ -39,18 +39,18 @@ class Jogo:
         c.setFont("Helvetica-Bold", 12)
         c.setFillColorRGB(0, 0, 0)
 
-        # 🧾 Cabeçalho
+       
         c.drawString(95, altura - 80, f"Classe: {classe}")
         c.drawString(360, altura - 80, f"Crítico: {critico}")
 
-        # 🟩 Atributos centrais
+        
         c.setFont("Helvetica", 11)
         c.drawString(60, altura - 125, f"FA:{fa}")     # FA
         c.drawString(130, altura - 125, f"FD:{fd}")    # FD
         c.drawString(200, altura - 125, f"PV:{pv}")    # PV
         c.drawString(290, altura - 125, f"Deslc: {desl}")  # Deslc
 
-        # 📜 Habilidades
+        
         c.setFont("Helvetica-Bold", 12)
         c.drawString(40, altura - 180, "Habilidades:")
 
@@ -68,7 +68,7 @@ class Jogo:
                 c.drawString(60, y, linha.strip())
                 y -= 11
 
-        # 📄 Descrição (se quiser adicionar a parte textual aqui)
+       
         c.setFont("Helvetica-Bold", 12)
         y -= 20
         c.drawString(40, y, "Descrição:")
@@ -151,10 +151,10 @@ class Jogo:
         d1 = rd.randint(1,6)
         d2 = rd.randint(1,6)
         valor = d1+d2+hostilidade
-        if valor < 3:
+        if valor < 2:
             valor = 2
-        if valor > 18:
-            valor = 18
+        if valor > 17:
+            valor = 17
         lista_encontros_grupal = [
     "1d6+2 peões",                              
     "Bispo + 1d6 peões",                        
@@ -173,7 +173,19 @@ class Jogo:
     "Rei + 1d3 (Bispo/Cavalo)",                 
     "Rei + 1d3 (Torre ou Rainha)",              
         ]
-        resultado = lista_encontros_grupal[valor - 3]
+        resultado = lista_encontros_grupal[valor-2]
+        if "peões" in resultado:
+            print(self.invocar("peao"))
+        if "Cavalo" in "resultado":
+            print(self.invocar("cavalo"))
+        if "Bispo" in "resultado":
+            print(self.invocar("bispo"))
+        if "Torre" in "resultado":
+            print(self.invocar("torre"))
+        if "Rainha" in "resultado":
+            print(self.invocar("rainha"))
+        if "Rei" in "resultado":
+            print(self.invocar("rei"))
 
         agora = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
         log_texto = f"[{agora}] [ENCONTRO] D1: {d1} | D2: {d2} | Hostilidade: {ahostilidade} => {resultado}\n"

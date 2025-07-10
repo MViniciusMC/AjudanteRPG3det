@@ -46,8 +46,10 @@
     "Elo vital": "Escolhe um inimigo, ele faz um teste. Se falhar vocês estão ligados em um elo vital por 1d6 turnos",
     "Magia Irresistivel": "Se defender da sua magia é mais dificil a meta aumento em +3",
     "Consumir": "O monstro absorve outros monstros perto se tornando mais forte.+3 de vida FA e FD para cada criatura consumida",
-    "Evoluir": "No crítico você fica 1 turno evoluindo para um nível maior. Se rei Ganha consumir"
-
+    "Evoluir": "No crítico você fica 1 turno evoluindo para um nível maior. Se rei Ganha consumir",
+    "Sem Tempo": "A cada turno você recebe +1 de FA e FD",
+    "Rajada Mental": "Você faz um ataque mental em todos perto",
+    "+Vida":"Cada turno você ganha +3 de vida a mais",
     
 }
 
